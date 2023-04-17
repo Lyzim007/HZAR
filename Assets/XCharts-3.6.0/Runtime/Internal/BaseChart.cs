@@ -498,6 +498,7 @@ namespace XCharts.Runtime
         public override void OnPointerEnter(PointerEventData eventData)
         {
             base.OnPointerEnter(eventData);
+            //Debug.Log(eventData.position);
             foreach (var handler in m_SerieHandlers) handler.OnPointerEnter(eventData);
             foreach (var handler in m_ComponentHandlers) handler.OnPointerEnter(eventData);
         }

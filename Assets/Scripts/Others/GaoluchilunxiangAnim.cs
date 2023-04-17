@@ -1,12 +1,12 @@
 
+using System.Collections;
 using UnityEngine;
+using XCharts.Runtime;
 
 public class GaoluchilunxiangAnim : MonoBehaviour
 {
-    [SerializeField] private GameObject _lineChart;
     public void ExitThisObj()
     {
-        _lineChart.gameObject.SetActive(true);
-        this.gameObject.SetActive(false);
+        gameObject.SetActive(false);
     }
 }

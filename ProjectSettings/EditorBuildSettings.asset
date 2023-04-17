@@ -71,6 +71,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/MRTK/Examples/Demos/UX/Interactables/Scenes/InteractablesExamples.unity
     guid: 3cfba91e4f501d048bd6014bb47c4e4c
+  - enabled: 1
+    path: Assets/MRTK/Examples/Demos/UX/ProgressIndicator/Scenes/ProgressIndicatorExamplesAdditiveLoad.unity
+    guid: 6656338ce09c49d4cbeb765266d02fb9
+  - enabled: 1
+    path: Assets/MRTK/Examples/Experimental/ExamplesHub/Scenes/MRTKExamplesHubMainMenu.unity
+    guid: 63a00118e809c754f9c7911bb85d635f
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}

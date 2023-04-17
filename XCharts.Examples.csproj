@@ -56,36 +56,36 @@
     <Analyzer Include="F:\VS\IDE\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\XCharts\Examples\Example03_ChartAnimation.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example_TestTime.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example30_PieChart.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example_Dynamic.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example_Component.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example00_CheatSheet.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example_AddChart.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example13_LineSimple.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example11_AddSinCurve.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example80_Polar.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example_PieChart.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example02_ChartEvent.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example40_Radar.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example90_Candlestick.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example12_CustomDrawing.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example_LargeData.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example21_BarRace.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example41_RadarUpdate.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example20_BarChart.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example04_DataZoom.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example_DynamicChart.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example_Test.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example01_UpdateData.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example60_Heatmap.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example31_PieUpdateName.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example10_LineChart.cs" />
-    <Compile Include="Assets\XCharts\Examples\Example50_Scatter.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example03_ChartAnimation.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example_TestTime.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example30_PieChart.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example_Dynamic.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example_Component.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example00_CheatSheet.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example_AddChart.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example13_LineSimple.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example11_AddSinCurve.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example80_Polar.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example_PieChart.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example02_ChartEvent.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example40_Radar.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example90_Candlestick.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example12_CustomDrawing.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example_LargeData.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example21_BarRace.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example41_RadarUpdate.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example20_BarChart.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example04_DataZoom.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example_DynamicChart.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example_Test.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example01_UpdateData.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example60_Heatmap.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example31_PieUpdateName.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example10_LineChart.cs" />
+    <Compile Include="Assets\XCharts-3.6.0\Examples\Example50_Scatter.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\XCharts\Examples\XCharts.Examples.asmdef" />
+    <None Include="Assets\XCharts-3.6.0\Examples\XCharts.Examples.asmdef" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

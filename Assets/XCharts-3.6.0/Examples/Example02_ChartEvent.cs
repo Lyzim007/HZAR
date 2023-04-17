@@ -28,37 +28,31 @@ namespace XCharts.Example
         void OnPointerEnter(PointerEventData eventData, BaseGraph chart)
         {
             //Debug.LogError("enter:" + chart);
-            Debug.Log("PointerEnter");
         }
 
         void OnPointerExit(PointerEventData eventData, BaseGraph chart)
         {
             //Debug.LogError("exit:" + chart);
-            Debug.Log("PointerExit");
         }
 
         void OnPointerDown(PointerEventData eventData, BaseGraph chart)
         {
             //Debug.LogError("down:" + chart);
-            Debug.Log("PointerDown");
         }
 
         void OnPointerUp(PointerEventData eventData, BaseGraph chart)
         {
             //Debug.LogError("up:" + chart);
-            Debug.Log("PointerUp");
         }
 
         void OnPointerClick(PointerEventData eventData, BaseGraph chart)
         {
             //Debug.LogError("click:" + chart);
-            Debug.Log("PointerClick");
         }
 
         void OnScroll(PointerEventData eventData, BaseGraph chart)
         {
             //Debug.LogError("scroll:" + chart);
-            Debug.Log("Scroll");
         }
     }
 }

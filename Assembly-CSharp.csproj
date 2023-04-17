@@ -56,7 +56,9 @@
     <Analyzer Include="F:\VS\IDE\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Others\ChartRefresh.cs" />
     <Compile Include="Assets\Scripts\UIScripts\UIPanelType.cs" />
+    <Compile Include="Assets\Scripts\Others\FocusTurnPointer.cs" />
     <Compile Include="Assets\Scripts\UIScripts\BasePanel.cs" />
     <Compile Include="Assets\Scripts\UIScripts\ISelect.cs" />
     <Compile Include="Assets\Scripts\UIScripts\UIPanelInfo.cs" />
